@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto py-10 text-gray-800">
+  <div class="container mx-auto py-10 text-gray-800 pb-20">
     <h2 class="text-center text-4xl font-bold mb-4">Tentang Kami</h2>
     <div class="flex flex-col lg:flex-row items-center justify-center w-3/4 mx-auto">
       <div class="w-full lg:w-1/3">

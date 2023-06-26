@@ -11,21 +11,20 @@
           <li><a>Beranda</a></li>
           <li><a>Tentang Kami</a></li>
           <li><a>Menu</a></li>
+          <li class="lg:hidden  py-1 rounded-lg bg-amber-400 text-center text-white font-bold"><a>Kontak</a></li>
         </ul>
       </div>
-      <div class="ml-10">
+      <div class="lg:ml-10">
         <img src="../../public/images/brand-logo.png" alt="brand-logo" width="125">
       </div>
     </div>
-    <div class="navbar-center hidden lg:flex">
+    <div class="navbar-end hidden lg:flex">
       <ul class="menu menu-horizontal px-1 text-gray-700 font-semibold">
         <li><a>Beranda</a></li>
         <li><a>Tentang Kami</a></li>
         <li><a>Menu</a></li>
+        <li><a class="px-5 rounded-lg bg-amber-400 text-white font-bold">Kontak</a></li>
       </ul>
-    </div>
-    <div class="navbar-end mr-10">
-      <a class="px-5 py-1 rounded-lg bg-amber-400 text-white font-bold">Kontak</a>
     </div>
   </div>
 </template>

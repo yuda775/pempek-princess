@@ -41,7 +41,7 @@ import Footer from './components/Footer.vue';
   </footer>
 </template>
 
-<style>
+<style scoped>
 section {
   background-color: white;
 }
