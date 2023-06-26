@@ -3,6 +3,7 @@ import Navbar from './components/Navbar.vue';
 import Hero from './components/Hero.vue';
 import About from './components/About.vue';
 import Product from './components/Product.vue';
+import Contact from './components/Contact.vue';
 import Testimonials from './components/Testimonials.vue';
 import Footer from './components/Footer.vue';
 </script>
@@ -24,6 +25,10 @@ import Footer from './components/Footer.vue';
 
     <section>
       <Product />
+    </section>
+
+    <section>
+      <Contact />
     </section>
 
     <section>
